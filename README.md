@@ -3,7 +3,7 @@ Analyse économétrique de l’impact des équipements médicaux sur la durée d
 
 #  Impact des investissements en équipements médicaux sur la durée des séjours hospitaliers
 
-## 📖 Objectif de l'étude
+##  Objectif de l'étude
 L’objectif de ce projet est d’analyser si **les investissements en équipements médicaux** (IRM, scanners CT) et **l’expansion de la capacité hospitalière** (nombre de lits) contribuent à **réduire la durée moyenne des séjours hospitaliers**.  
 Cette question est essentielle pour les politiques de santé publique, car elle touche directement :
 - l’efficacité du système hospitalier,
