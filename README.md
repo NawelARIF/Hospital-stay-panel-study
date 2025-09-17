@@ -1,7 +1,7 @@
 # Hospital-stay-panel-study
 Analyse économétrique de l’impact des équipements médicaux sur la durée des séjours hospitaliers (données de panel).
 
-# 🏥 Impact des investissements en équipements médicaux sur la durée des séjours hospitaliers
+#  Impact des investissements en équipements médicaux sur la durée des séjours hospitaliers
 
 ## 📖 Objectif de l'étude
 L’objectif de ce projet est d’analyser si **les investissements en équipements médicaux** (IRM, scanners CT) et **l’expansion de la capacité hospitalière** (nombre de lits) contribuent à **réduire la durée moyenne des séjours hospitaliers**.  
@@ -12,7 +12,7 @@ Cette question est essentielle pour les politiques de santé publique, car elle 
 
 ---
 
-## 🧠 Démarche méthodologique
+##  Démarche méthodologique
 
 ### 1️⃣ Collecte des données
 Les données proviennent de [Kaggle – Healthcare Investments and Length of Hospital Stay](https://www.kaggle.com/datasets/babyoda/healthcare-investments-and-length-of-hospital-stay).  
@@ -56,12 +56,12 @@ Des recherches futures pourraient inclure :
 
 ---
 
-## 📂 Contenu du dépôt
+##  Contenu du dépôt
 - **ARIF Nawel Panel.pdf** → Rapport complet détaillant l’analyse et les résultats.
 - **README.md** → Résumé de la démarche.
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 **Nawel Arif**  
 Master Data Science pour l’Économie et l’Entreprise – Université de Strasbourg
